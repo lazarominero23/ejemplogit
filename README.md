@@ -1,2 +1,2 @@
 # Repositorio de ejemplo
-Repositorio readme de ejemplo.
+Esto es un repositorio de ejemplo.
