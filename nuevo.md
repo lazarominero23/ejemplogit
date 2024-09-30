@@ -1,2 +1,5 @@
 Esto es un archivo de ejemplo.
-Edición del archivo nuevomd.
+
+Arreglamos el bug que hay en nuevo.md.
+
+Todo en la rama de trabajo.
